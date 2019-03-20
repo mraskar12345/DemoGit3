@@ -1,7 +1,6 @@
 D:\mayur\car finance\c# workspace\Git Workspace\Solution1\Project1\bin\Debug\Project1.exe.config
 D:\mayur\car finance\c# workspace\Git Workspace\Solution1\Project1\bin\Debug\Project1.exe
 D:\mayur\car finance\c# workspace\Git Workspace\Solution1\Project1\bin\Debug\Project1.pdb
-D:\mayur\car finance\c# workspace\Git Workspace\Solution1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
 D:\mayur\car finance\c# workspace\Git Workspace\Solution1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
 D:\mayur\car finance\c# workspace\Git Workspace\Solution1\Project1\obj\Debug\Project1.exe
 D:\mayur\car finance\c# workspace\Git Workspace\Solution1\Project1\obj\Debug\Project1.pdb
